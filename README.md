@@ -8,7 +8,6 @@ I started coding 2 years ago and haven't lost a single bit of interest in it til
 
 * 🌍  I'm based in Ahmedabad, Gujarat, India
 * ✉️  You can contact me at [mann.soni909@gmail.com](mailto:mann.soni909@gmail.com)
-* 🚀  I'm currently working on [PlaylistPal](http://playlistpal-omega.vercel.app)
 * 🧠  I'm learning Docker,Socket.io,Machine Learning Basics
 * ⚡  I love having 0 brain cells after solving few hard coding questions
 
