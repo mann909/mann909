@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mann Jasmatia
+Hi my name is Mann Jasmatia
 =====================================================================================================================================
 
 Full-Stack Developer
 --------------------
 
-I started coding 2 years ago and haven't lost a single bit of interest in it till date . I wish to work with same enthusiasm in the future as well .
+I started coding 2.5 years ago and haven't lost a single bit of interest in it till date . I wish to work with same enthusiasm in the future as well .
 
 * 🌍  I'm based in Ahmedabad, Gujarat, India
-* ✉️  You can contact me at [mann.soni909@gmail.com](mailto:mann.soni909@gmail.com)
+* ✉️  You can contact me at [mannjasmatia.dev@gmail.com](mailto:mannjasmatia.dev@gmail.com)
 * 🧠  I'm learning Docker,Socket.io,Machine Learning Basics
-* ⚡  I love having 0 brain cells after solving few hard coding questions
+* ⚡  I love having 0 brain cells after solving few hard level coding questions
 
 ### Skills
 
